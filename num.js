@@ -17,3 +17,14 @@ console.log('rand1 ===', rand1);
 
 let rand10 = Math.floor(Math.random() * 6) + 1;
 console.log('rand10 ===', rand10);
+
+// unary operator
+
+let sk2 = 5;
+// sk2 = sk2 + 1;
+// sk2 += 1;
+// sk2++;
+// sk2 = sk2 - 1;
+// sk2 -= 1;
+sk2--;
+console.log('sk2 ===', sk2);
