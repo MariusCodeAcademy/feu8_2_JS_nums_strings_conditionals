@@ -41,3 +41,10 @@ if (typeof x === 'number') {
 if (typeof x === 'number' && x > 10) {
   console.log('x yra skaicius IR daugiau uz 10');
 }
+
+let reiksme = -455;
+
+// mums tinka jei reikmes yra daugiau uz 50 ARBA maziau uz 0
+if (reiksme > 50 || reiksme < 0) {
+  console.log(`${reiksme} yra daugiau uz 50 arba maziau uz 0`);
+}
