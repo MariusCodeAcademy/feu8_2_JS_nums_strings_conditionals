@@ -16,13 +16,13 @@ true !== false
 
 5 \_ 5 !== "25"
 
+## veliau
+
 true && true
 
 2 === 5 && true
 
 6 \_ 6 === 36 && 15 - 9 == "6"
-
-## veliau
 
 false || false
 
