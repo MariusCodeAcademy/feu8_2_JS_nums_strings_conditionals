@@ -35,3 +35,43 @@
 
 - didžiausias;
 - mažiausias.
+
+## Daugiau uzduotciu #3
+
+1. Parašykite programą, kuri paprašo naudotojo įvesti savo vardą ir atspausdina "Sveiki, [vardas]!" (vardas turėtų būti atspausdinamas didžiosiomis raidėmis).
+
+2. Paprašykite naudotojo įvesti žodį ir patikrinkite, ar jis prasideda raidėmis "a" arba "A". Jei taip, atspausdinkite "Žodis prasideda raide 'a' arba 'A'". Jei ne, atspausdinkite "Žodis neprasideda raide 'a' arba 'A'".
+
+3. Paprašykite naudotojo įvesti du skaičius ir patikrinkite, ar jie yra lygūs. Jei taip, atspausdinkite "Skaičiai yra lygūs". Jei ne, atspausdinkite "Skaičiai nėra lygūs".
+
+4. Paprašykite naudotojo įvesti savo vardą ir patikrinkite, ar jis yra ilgesnis nei 5 simboliai. Jei taip, atspausdinkite "Jūsų vardas turi daugiau nei 5 simbolius". Jei ne, atspausdinkite "Jūsų vardas turi 5 ar mažiau simbolius".
+
+5. Parašykite programą, kuri paprašo naudotojo įvesti žodį ir atspausdina paskutines 3 to žodžio raidės .
+
+6. Paprašykite naudotojo įvesti žodį ir patikrinkite, ar jis turi daugiau nei 10 simbolių. Jei taip, atspausdinkite "Žodis turi daugiau nei 10 simbolių". Jei ne, atspausdinkite "Žodis turi 10 ar mažiau simbolių".
+
+7. Paprašykite naudotojo įvesti du žodžius ir patikrinkite, ar jie yra vienodi. Jei taip, atspausdinkite "Žodžiai yra vienodi". Jei ne, atspausdinkite "Žodžiai nėra vienodi".
+
+8. (sunkesne) Parašykite programą, kuri paprašo naudotojo įvesti žodį ir patikrina, ar jis yra palindromas (žodis, kuris skaitomas vienodai galo ir priekio). Atspausdinkite "Tai yra palindromas" arba "Tai nėra palindromas".
+
+## Daugiau uzduotciu #4
+
+1. Paprašykite naudotojo įvesti skaičių ir patikrinkite, ar jis yra teigiamas, neigiamas arba nulis. Atspausdinkite atitinkamą pranešimą konsolėje.
+
+2. Paprašykite naudotojo įvesti skaičių ir patikrinkite, ar jis yra lyginis arba nelyginis. Atspausdinkite atitinkamą pranešimą konsolėje.
+
+3. Sugeneruokite atsitiktinį skaičių nuo 1 iki 10 naudodami Math.random() funkciją ir apvalinkite jį į didžiausią sveikąjį skaičių, naudodami Math.ceil() metodą. Atspausdinkite rezultatą konsolėje.
+
+4. Paprašykite naudotojo įvesti skaičių ir apvalinkite jį į artimiausią sveikąjį skaičių, naudodami Math.round() metodą. Atspausdinkite rezultatą konsolėje.
+
+5. Paprašykite naudotojo įvesti skaičių ir apvalinkite jį į 2 dešimtines vietas po kablelio, naudodami Math.toFixed(2) metodą. Atspausdinkite rezultatą konsolėje.
+
+6. Sugeneruokite atsitiktinį skaičių nuo 1 iki 100 naudodami Math.random() funkciją ir patikrinkite, ar jis yra mažesnis nei 50. Atspausdinkite rezultatą konsolėje.
+
+7. Sugeneruokite atsitiktinį skaičių nuo 1 iki 6 naudodami Math.random() funkciją ir apvalinkite jį į artimiausią sveikąjį skaičių, naudodami Math.round() metodą. Atspausdinkite rezultatą konsolėje ir parodykite atitinkamą žinutę, jei rezultatas yra 1 arba 6.
+
+8. Paprašykite naudotojo įvesti savo amžių ir patikrinkite, ar jis yra pilnametis (18 arba daugiau metų). Atspausdinkite atitinkamą pranešimą konsolėje.
+
+9. Paprašykite naudotojo įvesti skaičių ir sugeneruokite atsitiktinį skaičių nuo 1 iki 10. Patikrinkite, ar naudotojo įvestas skaičius yra didesnis už atsitiktinį sugeneruotą skaičių. Atspausdinkite atitinkamą pranešimą konsolėje.
+
+10. Sugeneruokite atsitiktinį skaičių nuo 1 iki 100 naudodami Math.random() funkciją ir apvalinkite jį į artimiausią sveikąjį skaičių, naudodami Math.round() metodą. Patikrinkite, ar rezultatas yra lyginis skaičius. Atspausdinkite atitinkamą pranešimą konsolėje.
