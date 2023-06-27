@@ -1,0 +1,11 @@
+console.log('---- Sudėtinės salygos');
+console.log('------ And operatorius, loginė sandauga.');
+console.log('true && true:', true && true);
+console.log('true && false:', true && false);
+console.log('false && true:', false && true);
+console.log('false && false:', false && false);
+console.log('------ OR operatorius, loginė sudėtis.');
+console.log('true || true:', true || true);
+console.log('true || false:', true || false);
+console.log('false || true:', false || true);
+console.log('false || false:', false || false);
