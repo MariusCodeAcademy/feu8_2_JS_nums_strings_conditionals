@@ -26,12 +26,12 @@ jei nera vardas ir nera slaptazodis
 
 */
 
-let vardas = 'jonas';
-let password = 'jonas11';
+let vardas = 'admin';
+let password = 'master';
 
 // let testVal = prompt('reikme');
 // console.log('testVal ===', testVal);
-
+console.log('vardas', vardas, 'password:', password);
 if (vardas === '' && password === '') {
   //taip
   console.log('viso gero');
@@ -41,4 +41,6 @@ if (vardas === '' && password === '') {
 } else if (password === `${vardas}11`) {
   // taip
   console.log('Sveiki user');
+} else {
+  console.log('Neteisingas Slaptazodis');
 }
